@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# React Travel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Initialize Project
+
+* create project: `npx create-react-app react-travel --template typescript`
+* Install modular CSS loading plugins: `npm install typescript-plugin-css-modules --save-dev`
+
+## Custom Config
+
+* tsconfig.json（configuration for typescript）
+* .vscode/（configuration for vscode）
+* custom.d.ts（modular css, make it readable by typescript）
+
+
+
+
+
 
 ## Available Scripts
 
