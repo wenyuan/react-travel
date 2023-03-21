@@ -1,5 +1,13 @@
 # React Travel
 
+## Project Dependencies
+
+* Node: 18（backwards compatible with v12）
+* React: 18.1.0
+* TypeScript: 4.6.4
+* Redux: 4.2.0
+* Antd: 4.20.4
+
 ## Initialize Project
 
 * create project: `npx create-react-app react-travel --template typescript`
